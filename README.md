@@ -246,6 +246,7 @@
 ### 多人协作开发 ###
 创建Github organization账户
 管理Github organization账户
+多人合作开发详述：希望在后面可以加上
 ### TortoiseGit各项的操作所对应的GIT命令 ###
 
 ## Tips
